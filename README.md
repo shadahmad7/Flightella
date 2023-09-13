@@ -1,4 +1,4 @@
-# Flightella - Airline Booking Landing Page
+# Flightella - Airline Booking Landing Page ✈️⭐💫🌟
 
 Flightella is a modern and user-friendly airline booking landing page built using React.js, SCSS, and Vite. It serves as a static landing page to provide information and promote airline services, but it does not include full booking functionality.
 
